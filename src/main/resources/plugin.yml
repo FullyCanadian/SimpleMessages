@@ -1,0 +1,20 @@
+name: SimpleMessages
+author: FullyCanadian
+main: me.fullycanadian.simplemessages.Main
+version: 1.0
+commands:
+    facebook:
+       description: Sends facebook link
+       usage: "§cUsage: <command>"
+    website:
+        description: Sends website link
+        usage: "§cUsage: <command>"
+    twitter:
+        description: Sends twitter link
+        usage: "§cUsage: <command>"
+    apply:
+        description: Sends link to apply for staff
+        usage: "§cUsage: <command>"
+    store:
+        description: Sends link to store
+        usage: "§cUsage: <command>"
